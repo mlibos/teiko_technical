@@ -19,7 +19,6 @@ The project includes:
 ### 1. Install the Needed Dependencies
 From the repository root:
 
-'''bash
 pip install pandas matplotlib plotly dash kaleido scipy
 
 ### 2. Build the Database
