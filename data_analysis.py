@@ -222,7 +222,7 @@ def main():
         )
     else:
         print(
-            f"Average B-cell count for melanoma male responders "
+            f"Average B-cell count for melanoma male responders with any treatment and from any project "
             f"at baseline (time=0): {avg_b:.2f}"
         )
 
