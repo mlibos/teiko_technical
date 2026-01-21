@@ -23,7 +23,7 @@ pip install pandas matplotlib plotly dash kaleido scipy
 
 ### 2. Build the Database
 I've already included the built and loaded sqlite db for this project under cell_counts.db but if you wanted to replicate the process then run the data then simply run: python database_setup.py
-This will create the SQLite database cell_counts.db, load the cell-count.csv file into it, create normalized relational tables, a wide CSV-like table, and generate a edrived table of relative immune cell population frequencies. (The script is idempotent and can be rerun!)
+This will create the SQLite database cell_counts.db, load the cell-count.csv file into it, create normalized relational tables, a wide CSV-like table, and generate a derived table of relative immune cell population frequencies. (The script is idempotent and can be rerun!)
 
 ### 3. Run Analysis Scripts
 Run the analysis scripts by using: python data_analysis.py
