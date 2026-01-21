@@ -67,7 +67,11 @@ Significant populations (p < 0.05):
 Average B-cell count for melanoma male responders with any treatment and from any project at baseline (time=0): 10206.15
 
 ### 4. Launch the Dashboard
-By running: python dashboard.py and then opening the forwarded port (default is 8050) the dashboard should be loaded. Here's an example screenshot of the dashboard:
+By running: 
+
+python dashboard.py 
+
+and then opening the forwarded port (default is 8050) the dashboard should be loaded. Here's an example screenshot of the dashboard:
 <img width="1902" height="906" alt="image" src="https://github.com/user-attachments/assets/0f7c801a-3bea-4df6-b480-d765c73d1ee5" />
 
 ## Repository Design and Schema Overview
